@@ -1,0 +1,27 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.item-container {
+  width: 40%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  list-style-type: none;
+}
+
+.button-style {
+  background-color: transparent;
+  border: none;
+  width: 300px;
+}
+.active-border-color {
+  border: 5px solid #2dd4bf;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.in-active-border {
+  border: none;
+  width: 300px;
+  border-radius: 10px;
+}
